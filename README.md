@@ -4,3 +4,5 @@
 
 
 ## Hardware
+* piezo buzzer
+* Raspberry Pi
